@@ -1,2 +1,2 @@
 # Imaged
-Manipulations on image in terminal
+Image manipulation in terminal
